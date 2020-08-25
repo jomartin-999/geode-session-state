@@ -1,6 +1,0 @@
----
-applications:
-  - name: session-state
-    path: ./build/libs/session-state.jar
-    services:
-      - <SERVICE-INSTANCE-NAME>
